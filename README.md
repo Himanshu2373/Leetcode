@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Himanshu2373/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Himanshu2373/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Himanshu2373/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
